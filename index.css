@@ -2,7 +2,7 @@
 :root {
     --color-dark-steel-blue: #1C3144; /* Main Dark Background */
     --color-medium-blue: #2A4960;    /* Card/Block Background */
-    --color-accent-blue: #0084ff;    /* Futuristic Neon Green/Blue Accent */
+    --color-accent-blue: #00FFC0;    /* Futuristic Neon Green/Blue Accent */
     --color-light-text: #E0FFFF;     /* Light Text */
     --color-secondary-text: #B0C4DE; /* Secondary Text/Subtitles */
     --font-primary: 'Inconsolata', monospace; /* Hacker/Admin Feel */
@@ -378,7 +378,7 @@ hr {
     padding: 30px;
     border-radius: 10px;
     border: 1px solid var(--color-accent-blue);
-    box-shadow: 0 0 15px rgba(222, 58, 228, 0.3);
+    box-shadow: 0 0 15px rgba(0, 255, 192, 0.3);
     transition: transform 0.3s ease;
 }
 

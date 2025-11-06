@@ -378,7 +378,7 @@ hr {
     padding: 30px;
     border-radius: 10px;
     border: 1px solid var(--color-accent-blue);
-    box-shadow: 0 0 15px rgba(0, 255, 192, 0.3);
+    box-shadow: 0 0 15px rgba(222, 58, 228, 0.3);
     transition: transform 0.3s ease;
 }
 
